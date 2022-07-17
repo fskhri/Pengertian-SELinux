@@ -32,4 +32,4 @@ Enforcing: jika ada program, aplikasi, ataupun proses yang tidak memenuhi target
 
 Perissive: jika ada program, aplikasi, ataupun proses yang tidak memenuhi target policy yang sudah didefinisikan, maka SELinux akan tidak memblok proses atau program tersebut, tetapi melaporkan ke dalam system log dan/atau selinux audit log sehingga dapat diakses laporannya dapat diakses oleh user (misalkan dengan setroubleshooter)
 
-source: https://dedehamza.wordpress.com/2013/09/26/selinux-permissive-enforcing-apa-itu/
+<a href="https://dedehamza.wordpress.com/2013/09/26/selinux-permissive-enforcing-apa-itu/" target="_blank">sumber</a>
