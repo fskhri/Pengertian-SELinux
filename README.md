@@ -14,7 +14,7 @@ Enforcing: jika ada program, aplikasi, ataupun proses yang tidak memenuhi target
 
 Permissive: jika ada program, aplikasi, ataupun proses yang tidak memenuhi target policy yang sudah didefinisikan, maka SELinux akan tidak memblok proses atau program tersebut, tetapi melaporkan ke dalam system log dan/atau selinux audit log sehingga dapat diakses laporannya dapat diakses oleh user (misalkan dengan setroubleshooter)
 
-# How to change
+# How to change SELinux?
 _____________________________________
 SELinux Permissive/Enforcing mode change Android with Termux Linux command line.
 
